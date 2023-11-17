@@ -1,4 +1,8 @@
-### Hi there 👋
+# hello, i am levith. 👋🏻
+welcome to my github profile. just a heads up - writing in lowercase is my thing.
+
+# about me
+my name is levith andrade cuellar, i am originally from mexico and i am currently an undergraduate student at nyu abu dhabi studying a combination of economics and computer science.
 
 <!--
 **levith-andrade-cuellar/levith-andrade-cuellar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
