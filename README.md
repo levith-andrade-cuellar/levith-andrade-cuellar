@@ -1,11 +1,16 @@
-# hello 👋🏻 
+# hello 👋🏻
 
-# my name is levith,
+# my name is levith (he/him),
 - i am originally from méxico.
 - i am currently an undergraduate student at nyu abu dhabi.
 - i study a combination of economics and computer science.
 - i am passionate about leadership, creativity and innovation.
 - i went to a travelling high school!
+
+# you can contact me at,
+- email: levith@nyu.edu
+- linkedin: [/levith](https://www.linkedin.com/in/levith/)
+- instagram: @\_\_levith\_\_
 
 <!--
 **levith-andrade-cuellar/levith-andrade-cuellar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
