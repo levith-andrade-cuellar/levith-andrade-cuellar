@@ -2,7 +2,7 @@
 welcome to my github :)
 
 # my name is levith (he/him),
-- i am originally from méxico.
+- i am originally from mexico.
 - i am currently an undergraduate student at nyu abu dhabi.
 - i study a combination of economics and computer science.
 - i am passionate about leadership, creativity and innovation.
