@@ -8,6 +8,13 @@ welcome to my github.
 - i am passionate about leadership, creativity and innovation.
 - i went to a travelling high school!
 
+# you can start here,
+here are some of my projects that reflect my skills and interests:
+- [knight, dragons, princess](https://github.com/levith-andrade-cuellar/knight-dragons-princess) — **object oriented programming** (python)
+- [termolatío](https://github.com/levith-andrade-cuellar/termolatio) — **natural language processing** (python)
+- [personal website](https://github.com/levith-andrade-cuellar/levith-andrade-cuellar.github.io) - **web development** (html/css/javascript)
+- crimes.com - **databases** (php/sql)
+
 # you can contact me at,
 - email: levith@nyu.edu
 - linkedin: [/levith](https://www.linkedin.com/in/levith/)
