@@ -14,7 +14,7 @@ here are some of my projects that reflect my skills and interests:
 - [termolatío](https://github.com/levith-andrade-cuellar/termolatio) — `natural language processing`
 - [personal website](https://github.com/levith-andrade-cuellar/levith-andrade-cuellar.github.io) - `web development`
 - [crimes.com](https://github.com/levith-andrade-cuellar/crimes.com) - `databases`
-- elon musk on twitter - `data science`
+- [elon musk on twitter](https://github.com/levith-andrade-cuellar/elon-musk) - `data science`
 
 # you can contact me at,
 - email: levith@nyu.edu
